@@ -31,7 +31,7 @@
 
 ## 🚀 Week-01
 
-- Section 1 : 수업 Orientation
+- [Section 1 : 수업 Orientation](/week-01/01-orientation.md)
 - Section 2 : 웹 페이지 구조를 설계하는 HTML
 - Section 3 : 개발자들의 필수템, 개발자 도구
 - Section 4 : 웹 페이지를 꾸며주는 CSS
