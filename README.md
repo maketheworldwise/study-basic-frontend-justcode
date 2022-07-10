@@ -36,7 +36,18 @@
 - [Section 3 : 개발자들의 필수템, 개발자 도구](/week-01/03-tools.md)
 - [Section 4 : 웹 페이지를 꾸며주는 CSS](/week-01/04-css.md)
 - [Assignments](/week-01/assignments.md)
-- [Ghost Rain Game Results](https://github.com/maketheworldwise/udemy-ghost-rain-game)
+
+## 🚀 Week-02
+
+- Section 5 : JavaScript Intro
+- Section 6 : JavaScript로 화면을 조작하기 위한 DOM
+- Section 7 : 사용자 이벤트로 상호작용하기
+- Section 8 : JavaScript 기본 문법
+- Section 9 : Advanced JavaScript - 객체과 클래스
+
+## 🚀 Part 1 Result
+
+- [Ghost Rain Game Result](https://github.com/maketheworldwise/udemy-ghost-rain-game)
 
 ---
 
