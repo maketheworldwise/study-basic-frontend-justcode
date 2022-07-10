@@ -35,7 +35,7 @@
 - [Section 2 : 웹 페이지 구조를 설계하는 HTML](/week-01/02-html.md)
 - [Section 3 : 개발자들의 필수템, 개발자 도구](/week-01/03-tools.md)
 - [Section 4 : 웹 페이지를 꾸며주는 CSS](/week-01/04-css.md)
-- Assignments
+- [Assignments](/week-01/assignments.md)
 - [Ghost Rain Game Results](https://github.com/maketheworldwise/udemy-ghost-rain-game)
 
 ---
