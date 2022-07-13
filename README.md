@@ -45,7 +45,7 @@
 - Section 8 : JavaScript 기본 문법
 - Section 9 : Advanced JavaScript - 객체과 클래스
 
-## 🚀 Part 1 Result
+## 🔥 Part 1 Result
 
 - [Ghost Rain Game Result](https://github.com/maketheworldwise/udemy-ghost-rain-game)
 
@@ -56,8 +56,6 @@
 (추후 업데이트 예정)
 
 ---
-
-## 🔥 Results
 
 ## 📚 Recommended References
 
