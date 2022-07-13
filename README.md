@@ -39,7 +39,7 @@
 
 ## 🚀 Week-02
 
-- Section 5 : JavaScript Intro
+- [Section 5 : JavaScript Intro](/week-02/01-javascript_intro.md)
 - Section 6 : JavaScript로 화면을 조작하기 위한 DOM
 - Section 7 : 사용자 이벤트로 상호작용하기
 - Section 8 : JavaScript 기본 문법
