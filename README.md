@@ -41,7 +41,7 @@
 
 - [Section 5 : JavaScript Intro](/week-02/01-javascript_intro.md)
 - [Section 6 : JavaScript로 화면을 조작하기 위한 DOM](/week-02/02-javascript_dom.md)
-- Section 7 : 사용자 이벤트로 상호작용하기
+- [Section 7 : 사용자 이벤트로 상호작용하기](/week-02/03-javascript-event.md)
 - Section 8 : JavaScript 기본 문법
 - Section 9 : Advanced JavaScript - 객체과 클래스
 
