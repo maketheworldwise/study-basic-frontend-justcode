@@ -53,13 +53,20 @@
 
 ## ✍🏻 Part 2
 
-(추후 업데이트 예정)
+**목표** :
+
+- Javascript 문법
+
+## 🚀 Week-03
+
+- Javascript Grammer (Variable, String, Function, Conditional Statement, Array)
+- [Assignments](/week-03/assignments.md)
 
 ---
 
 ## 📚 Recommended References
 
-- 책 '모던 자바스크립트 Deep dive>'
+- 책 '모던 자바스크립트 Deep dive'
 - https://www.w3schools.com/html/default.asp
 - https://nomadcoders.co/
 - https://poiemaweb.com/
